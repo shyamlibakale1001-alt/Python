@@ -12,7 +12,8 @@ A sleek, desktop coffee shop application built with Python and Tkinter. This pro
 1. Make sure you have Python installed.
 2. Clone this repository or download the script.
 3. Open your terminal/command prompt and run:
+
 ```bash
-   python coffee_gui.py
-## Preview
-![Rose's Coffee Shop Interface]![Uploading Output Screenshot.png…]()
+python coffee_gui.py
+Preview
+![Rose's Coffee Shop Interface](Output Screenshot.png)
